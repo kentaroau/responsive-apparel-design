@@ -1,1 +1,1 @@
-# youtube-responsive-apparel-design
+# Responsive apparel design
