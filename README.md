@@ -1,6 +1,6 @@
 # Responsive apparel design
 
-Responsive website design for fictional apparel shop:
+Responsive website design for fictional apparel shop. Code along here: https://youtu.be/ry1npKiIn_4
 
 Tech used:
 - HTML, CSS
